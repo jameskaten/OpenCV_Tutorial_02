@@ -2,7 +2,7 @@ import cv2
 
 # Image Loading
 
-img_file = "Twins.jpg"
+img_file = "../Twins.jpg"
 img = cv2.imread(img_file)
 
 if img is not None:
