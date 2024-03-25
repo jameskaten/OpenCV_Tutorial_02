@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c81030f-574c-46ae-9964-f69c76348c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap2/210_Draw_Lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap4/401_Region_of_Interest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap4/402_roi_copy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Angela.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap2/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chris01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chris02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap2/214_Draw_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap2/214_Draw_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap2/215_Window_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap2/215_Window_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap2/216_Key_Event.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap2/216_Key_Event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap2/217_Mouse_Event_Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap2/217_Mouse_Event_Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap2/218_Mouse_Event_Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap2/218_Mouse_Event_Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap2/219_Event_trackbar_colorAdjust.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap2/219_Event_trackbar_colorAdjust.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap3/307_subplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap3/307_subplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap3/308_Show_Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap3/308_Show_Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap3/309_Convert_img_color.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap3/309_Convert_img_color.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dZZOEpOnTvqVJptnqOef24HHNk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,9 +55,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chap2" />
   </component>
-  <component name="RunManager" selected="Python.210_Draw_Lines">
-    <configuration name="206_Video_cam_reading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\James_Git\OpenCV_Tutorial_02\Chap2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.402_roi_copy">
+    <configuration name="307_subplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap2/206_Video_cam_reading.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap3/307_subplot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="207_Video_cam_resize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="308_Show_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap2/207_Video_cam_resize.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap3/308_Show_Image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="208_Video_cam_take_picture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="309_Convert_img_color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap2/208_Video_cam_take_picture.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap3/309_Convert_img_color.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="209_Video_cam_recording" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="401_Region_of_Interest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap2/209_Video_cam_recording.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/401_Region_of_Interest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="210_Draw_Lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="402_roi_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap2/210_Draw_Lines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/402_roi_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.210_Draw_Lines" />
-        <item itemvalue="Python.208_Video_cam_take_picture" />
-        <item itemvalue="Python.209_Video_cam_recording" />
-        <item itemvalue="Python.207_Video_cam_resize" />
-        <item itemvalue="Python.206_Video_cam_reading" />
+        <item itemvalue="Python.402_roi_copy" />
+        <item itemvalue="Python.401_Region_of_Interest" />
+        <item itemvalue="Python.309_Convert_img_color" />
+        <item itemvalue="Python.308_Show_Image" />
+        <item itemvalue="Python.307_subplot" />
       </list>
     </recent_temporary>
   </component>
@@ -166,5 +188,16 @@
       <updated>1710217527436</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chap2/217_Mouse_Event_Circle.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

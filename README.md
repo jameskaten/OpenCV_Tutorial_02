@@ -12,3 +12,4 @@
 # Old Version opencv-python installation 
 ### $pip intall opencv-python==4.5.4 (example)
 
+### Reference: 파이썬으로 만드는 OpenCV 프로젝트
