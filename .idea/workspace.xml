@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c81030f-574c-46ae-9964-f69c76348c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap4/406_bgr2gray_scale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap4/419_bitwise_masking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap4/420_imageDiff_absolute.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap4/403_roi_crop_mouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap4/403_roi_crop_mouse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap4/404_roi_select_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap4/404_roi_select_image.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +53,8 @@
       <recent name="C:\James_Git\OpenCV_Tutorial_02\Chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.406_bgr2gray_scale">
-    <configuration name="402_roi_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.419_bitwise_masking">
+    <configuration name="415_image_blending_simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/402_roi_copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/415_image_blending_simple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="403_roi_crop_mouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="416_imgae_blending_alpha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/403_roi_crop_mouse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/416_imgae_blending_alpha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="404_roi_select_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="417_image_blending_alpha_trackbar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/404_roi_select_image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/417_image_blending_alpha_trackbar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="405_rgb_opencv_logo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="418_bitwise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/405_rgb_opencv_logo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/418_bitwise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="406_bgr2gray_scale" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="419_bitwise_masking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/406_bgr2gray_scale.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap4/419_bitwise_masking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.406_bgr2gray_scale" />
-        <item itemvalue="Python.405_rgb_opencv_logo" />
-        <item itemvalue="Python.404_roi_select_image" />
-        <item itemvalue="Python.403_roi_crop_mouse" />
-        <item itemvalue="Python.402_roi_copy" />
+        <item itemvalue="Python.419_bitwise_masking" />
+        <item itemvalue="Python.418_bitwise" />
+        <item itemvalue="Python.417_image_blending_alpha_trackbar" />
+        <item itemvalue="Python.416_imgae_blending_alpha" />
+        <item itemvalue="Python.415_image_blending_simple" />
       </list>
     </recent_temporary>
   </component>
