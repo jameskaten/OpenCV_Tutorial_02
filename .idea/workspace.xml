@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c81030f-574c-46ae-9964-f69c76348c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap5/508_perspective_scan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap6/614_morph_dilate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap5/510_remap_flip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap5/510_remap_flip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap5/514_undistort_barrel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap5/514_undistort_barrel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap6/606_edge_differential.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap6/606_edge_differential.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap6/609_edge_sobel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap6/609_edge_sobel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +56,8 @@
       <recent name="C:\James_Git\OpenCV_Tutorial_02\Chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.508_perspective_scan">
-    <configuration name="504_rotation_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.614_morph_dilate">
+    <configuration name="610_edge_scharr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap5/504_rotation_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/610_edge_scharr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="505_rotation_getmatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="611_edge_laplacian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap5/505_rotation_getmatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/611_edge_laplacian.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="506_getAffine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="612_edge_canny" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap5/506_getAffine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/612_edge_canny.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="507_Perspective" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="613_morph_erode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap5/507_Perspective.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/613_morph_erode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="508_perspective_scan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="614_morph_dilate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap5/508_perspective_scan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/614_morph_dilate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.508_perspective_scan" />
-        <item itemvalue="Python.507_Perspective" />
-        <item itemvalue="Python.506_getAffine" />
-        <item itemvalue="Python.505_rotation_getmatrix" />
-        <item itemvalue="Python.504_rotation_matrix" />
+        <item itemvalue="Python.614_morph_dilate" />
+        <item itemvalue="Python.613_morph_erode" />
+        <item itemvalue="Python.612_edge_canny" />
+        <item itemvalue="Python.611_edge_laplacian" />
+        <item itemvalue="Python.610_edge_scharr" />
       </list>
     </recent_temporary>
   </component>
