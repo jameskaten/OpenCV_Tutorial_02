@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c81030f-574c-46ae-9964-f69c76348c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap6/614_morph_dilate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap7/704_cntr_bound_fit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moon_gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/morphological.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes_donut.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap5/510_remap_flip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap5/510_remap_flip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap5/514_undistort_barrel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap5/514_undistort_barrel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap6/606_edge_differential.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap6/606_edge_differential.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap6/609_edge_sobel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap6/609_edge_sobel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap6/619_pyramid_laplacian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap6/619_pyramid_laplacian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap6/621_sketch_painting_cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap6/621_sketch_painting_cam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap7/702_cntr_hierarchy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap7/702_cntr_hierarchy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -47,6 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chap2" />
@@ -56,8 +62,8 @@
       <recent name="C:\James_Git\OpenCV_Tutorial_02\Chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.614_morph_dilate">
-    <configuration name="610_edge_scharr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.704_cntr_bound_fit">
+    <configuration name="621_sketch_painting_cam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/610_edge_scharr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/621_sketch_painting_cam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="611_edge_laplacian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="701_cntr_find" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/611_edge_laplacian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/701_cntr_find.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="612_edge_canny" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="702_cntr_hierarchy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/612_edge_canny.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/702_cntr_hierarchy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="613_morph_erode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="703_contr_moment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/613_morph_erode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/703_contr_moment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="614_morph_dilate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="704_cntr_bound_fit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap6/614_morph_dilate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/704_cntr_bound_fit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.614_morph_dilate" />
-        <item itemvalue="Python.613_morph_erode" />
-        <item itemvalue="Python.612_edge_canny" />
-        <item itemvalue="Python.611_edge_laplacian" />
-        <item itemvalue="Python.610_edge_scharr" />
+        <item itemvalue="Python.704_cntr_bound_fit" />
+        <item itemvalue="Python.703_contr_moment" />
+        <item itemvalue="Python.702_cntr_hierarchy" />
+        <item itemvalue="Python.701_cntr_find" />
+        <item itemvalue="Python.621_sketch_painting_cam" />
       </list>
     </recent_temporary>
   </component>

@@ -22,7 +22,7 @@ while cap.isOpened():
     # 경계선 강조를 위해 팽창 연산
     kernel = cv2.getStructuringElement(cv2.MORPH_CROSS, (3,3))
     sketch = cv2.erode(sketch, kernel)
-    # 경계선을 자연스럽게 하기 위해 미디언 블러 필터 적용
+    # 경계선을 자연스럽게 하기 위해 미디언 블러 필터 적용 
     sketch = cv2.medianBlur(sketch, 5)
     # gray scale에서 BGR 컬러 스케일로 변경
     img_sketch = cv2.cvtColor(sketch, cv2.COLOR_GRAY2BGR)
