@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c81030f-574c-46ae-9964-f69c76348c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap7/715_grabcut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap8/811_desc_surf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap7/710_Hough_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap7/710_Hough_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap7/712_connected_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap7/712_connected_label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap8/803_template_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap8/803_template_matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap8/807_kpt_fast.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap8/807_kpt_fast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap8/810_desc_sift.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap8/810_desc_sift.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +57,8 @@
       <recent name="C:\James_Git\OpenCV_Tutorial_02\Chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.715_grabcut">
-    <configuration name="704_watershed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.811_desc_surf">
+    <configuration name="808_kpt_blob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/704_watershed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap8/808_kpt_blob.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="712_connected_label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="809_kpt_blob_param" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/712_connected_label.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap8/809_kpt_blob_param.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="713_flood_fill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="810_desc_sift" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/713_flood_fill.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap8/810_desc_sift.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="714_watershed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="811_desc_surf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/714_watershed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap8/811_desc_surf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="715_grabcut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="812_desc_orb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCV_Tutorial_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap7/715_grabcut.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap8/812_desc_orb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.715_grabcut" />
-        <item itemvalue="Python.714_watershed" />
-        <item itemvalue="Python.704_watershed" />
-        <item itemvalue="Python.713_flood_fill" />
-        <item itemvalue="Python.712_connected_label" />
+        <item itemvalue="Python.811_desc_surf" />
+        <item itemvalue="Python.810_desc_sift" />
+        <item itemvalue="Python.812_desc_orb" />
+        <item itemvalue="Python.809_kpt_blob_param" />
+        <item itemvalue="Python.808_kpt_blob" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +191,11 @@
           <url>file://$PROJECT_DIR$/Chap2/217_Mouse_Event_Circle.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chap8/803_template_matching.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

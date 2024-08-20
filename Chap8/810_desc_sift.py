@@ -22,4 +22,4 @@ cv2.destroyAllWindows()
 # Error: AttributeError: module 'cv2' has no attribute 'xfeatures2d'
 # Try 1: pip install opencv-contrib-python
 # Try 2: pip install opencv-python==3.4.2.17
-# Try 3: pip install opencv-contrib-python==3.4.2.17  --> Working 
+# Try 3: pip install opencv-contrib-python==3.4.2.17  --> Working
