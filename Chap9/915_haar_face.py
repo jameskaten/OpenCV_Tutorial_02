@@ -2,9 +2,9 @@ import numpy as np
 import cv2
 
 # face cascade classifier
-face_cascade = cv2.CascadeClassifier('./data/haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('../data/haarcascade_frontalface_default.xml')
 # eye detect
-eye_cascade = cv2.CascadeClassifier('./data/haarcascade_eye.xml')
+eye_cascade = cv2.CascadeClassifier('../data/haarcascade_eye.xml')
 # image read and gray scale
 img = cv2.imread('../img/children.jpg')
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
