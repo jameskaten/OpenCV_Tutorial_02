@@ -2,7 +2,7 @@ import cv2
 
 # Image Loading
 
-img_file = "../Chris02.jpg"
+img_file = "../img/Chris02.jpg"
 save_file = "Chris02_saved.jpg" \
             ""
 img = cv2.imread(img_file, cv2.IMREAD_GRAYSCALE)
