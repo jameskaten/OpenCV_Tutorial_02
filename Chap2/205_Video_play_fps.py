@@ -1,11 +1,11 @@
 import cv2
 
-video_file = "../Angela.mp4"
+video_file = "../img/Angela.mp4"
 
 cap = cv2.VideoCapture(video_file)
 if cap.isOpened():      # Initialization
-    fps = cap.get(cv2.CAP_PROP_FPS) # Frame number
-    delay = int(1000/fps)
+    fps = cap.get(cv2.CAP_PROP_FPS) # Frame number by second
+    delay = int(1000/fps)           # delay time
     print("FPS: %f, Delay: %dms" %(fps, delay))
 
     while True:
