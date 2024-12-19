@@ -6,8 +6,8 @@ if cap.isOpened():      # Initialization
         ret, frame = cap.read()   # read next frame
         if ret:
             cv2.imshow('camera', frame)
-            if cv2.waitKey(1) != -1:
-                cv2.imwrite('photo.jpg', frame)
+            if cv2.waitKey(1) != -1:                        # if type any keys
+                cv2.imwrite('photo.jpg', frame)     # save the photo
                 break
         else:
             print('no frame')
