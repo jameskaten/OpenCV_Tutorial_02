@@ -1,17 +1,25 @@
-import cv2
-import numpy as np
+# Import required libraries
+import cv2      # OpenCV library for image processing
+import numpy as np    # NumPy library for numerical operations
 
-# BGR 컬러 스페이스로 세 가지 밝기의 픽셀 생성
-dark = np.array([[[0,0,0]]], dtype=np.uint8)
-middle = np.array([[[127,127,127]]], dtype=np.uint8)
-bright = np.array([[[255,255,255]]], dtype=np.uint8)
+# Create three different brightness levels in BGR color space
+# Format: [[[Blue, Green, Red]]] with values 0-255
+# All channels have same value to create grayscale colors
+dark = np.array([[[0,0,0]]], dtype=np.uint8)      # Black pixel (0,0,0)
+middle = np.array([[[127,127,127]]], dtype=np.uint8)  # Gray pixel (127,127,127)
+bright = np.array([[[255,255,255]]], dtype=np.uint8)  # White pixel (255,255,255)
 
-# BGR 컬러 스페이스를 YUV컬러 스페이스로 변환
-dark_yuv = cv2.cvtColor(dark, cv2.COLOR_BGR2YUV)
-middle_yuv = cv2.cvtColor(middle, cv2.COLOR_BGR2YUV)
-bright_yuv = cv2.cvtColor(bright, cv2.COLOR_BGR2YUV)
+# Convert BGR colors to YUV color space
+# YUV Components:
+# Y: Luminance (brightness) - Similar to grayscale
+# U: Blue projection (B-Y) - Blue-difference chroma
+# V: Red projection (R-Y) - Red-difference chroma
+dark_yuv = cv2.cvtColor(dark, cv2.COLOR_BGR2YUV)     # Convert black to YUV
+middle_yuv = cv2.cvtColor(middle, cv2.COLOR_BGR2YUV)  # Convert gray to YUV
+bright_yuv = cv2.cvtColor(bright, cv2.COLOR_BGR2YUV)  # Convert white to YUV
 
-# YUV로 변환된 픽셀 출력
-print("dark: ", dark_yuv)
-print("middle: ", middle_yuv)
-print("bright: ", bright_yuv)
+# Print YUV values for each brightness level
+# Format: [[[Y, U, V]]]
+print("dark: ", dark_yuv)     # Should show low Y value, neutral U/V
+print("middle: ", middle_yuv)  # Should show medium Y value, neutral U/V
+print("bright: ", bright_yuv)  # Should show high Y value, neutral U/V
